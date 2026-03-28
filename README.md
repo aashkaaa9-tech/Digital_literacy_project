@@ -1,9 +1,7 @@
 # Digital Literacy Project
 
 **Name:** Aashka Saiwal
-
 **Branch:** CSE E-com
-
 **Year:** 1st Year  
 
 ---
