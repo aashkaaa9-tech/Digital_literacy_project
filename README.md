@@ -1,5 +1,3 @@
-# Digital_literacy_project
-https://docs.google.com/forms/d/e/1FAIpQLSe6Uu_W7051B-XxEWKlp8L-6cZv3pOovQEyyVbdCrFkW4nbMg/viewform?usp=publish-editor
 # Digital Literacy Project
 
 **Name:** Aashka Saiwal
