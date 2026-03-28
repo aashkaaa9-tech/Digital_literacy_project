@@ -2,7 +2,7 @@
 
 **Name:** Aashka Saiwal
 
-**Branch:** CSE E-com
+**Branch:** CSE E-commerce
 
 **Year:** 1st Year  
 
